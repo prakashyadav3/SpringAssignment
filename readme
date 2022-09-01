@@ -1,0 +1,6 @@
+1.	Add a Company [Name, City]                -    addcompany.php
+2.	Add a User [Name, Email, Phone]           -  add_users.php
+3.	Allocate a User to one or more Companies  -  adduser_company.php
+4.	List Users [Name, Email, Phone, Allocated Companies (comma separated string)] - view_records.php 
+5.	Delete a given Company - view_company.php
+6.	Get a User’s data for a given Company- done -  companyusers.php
