@@ -4,3 +4,7 @@
 4.	List Users [Name, Email, Phone, Allocated Companies (comma separated string)] - view_records.php 
 5.	Delete a given Company - view_company.php
 6.	Get a User’s data for a given Company- done -  companyusers.php
+We need to first import the given database sql file and then place the files in folder for eg. In windows you will have folder of htdocs ,
+you can create a folder as test or assignment and place the files there.
+If you are using linux then it will be in var/www/ then your project folder.
+You can check the above functionalities by respective pages.
